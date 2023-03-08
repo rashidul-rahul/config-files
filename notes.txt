@@ -1,0 +1,4 @@
+1. install neovim
+2. for activing plugins install https://github.com/junegunn/vim-plug
+3. InstallPlug for installing plugins
+3. remove the package name from the vim config file and run PlugClean`:wq
